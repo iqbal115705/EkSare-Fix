@@ -60,8 +60,8 @@ Rails.application.configure do
     port: 587,
     enable_starttls_auto: true,
     authentication: 'plain',
-    user_name: 'YOU_GMAIL_ADDRESS',
-    password: 'YOUR_GMAIL_PASSWORD'
+    user_name: 'demo.eksare@gmail.com',
+    password: 'demo1234'
   }
 
   # config.paperclip_defaults = {
